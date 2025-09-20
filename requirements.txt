@@ -1,0 +1,10 @@
+polars
+pandas
+openpyxl
+xlsxwriter
+pyarrow
+pytz
+tzdata
+six
+numpy
+python-dateutil
