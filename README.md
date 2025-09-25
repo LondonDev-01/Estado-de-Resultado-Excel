@@ -4,7 +4,7 @@ Proyecto para mejorar en python y ayudar a un amigo ✨
 
 Una herramienta en Python para generar estados de resultados profesionales en formato Excel con cálculos automáticos.
 
-En desarrollo...
+En desarrollo (etapa temprana)...
 
 ## ✨ Características
 
